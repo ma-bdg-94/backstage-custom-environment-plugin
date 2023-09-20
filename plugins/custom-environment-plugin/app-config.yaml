@@ -1,0 +1,3 @@
+routes:
+  - path: '/example'
+    title: 'Example Plugin'

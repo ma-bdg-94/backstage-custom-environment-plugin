@@ -1,0 +1,40 @@
+.header {
+  text-align: center !important;
+  height: calc(100vh - 160px) !important;
+}
+
+label {
+  text-align: start !important;
+}
+
+.form-container {
+  display: flex !important;
+  flex-direction: column !important;
+ 
+}
+
+.success-message {
+  color: green !important;
+  font-weight: bold !important;
+  font-size: 1.2rem !important;
+  text-align: start !important;
+  margin-block: 2% !important;
+  margin-inline: 22% !important;
+}
+
+
+.form-input {
+  margin: 1% 5% !important;
+  width: 100% !important;
+  text-align: start !important;
+}
+
+.submit-button {
+  margin: 5% 5% !important;
+  width: 50% !important;
+  padding: 2% !important;
+  text-align: start !important;
+  text-transform: capitalize !important;
+  font-weight: bold !important;
+  font-size: 1.2rem !important;
+}
